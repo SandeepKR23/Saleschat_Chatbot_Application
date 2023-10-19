@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+pypdf
+qdrant-client
+fastapi
+python-dotenv
+uvicorn
+-e .
