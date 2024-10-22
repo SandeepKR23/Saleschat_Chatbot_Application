@@ -19,6 +19,9 @@ This project focuses on implementing an **AI-based chatbot** within a low-code p
 The architecture follows a modular approach with the following components:
 ![Chatbot Interface](Downloads/Project_ARc1.png)
 
+![Project_ARc1](https://github.com/user-attachments/assets/5b7a2f4c-1e24-4bd7-a81f-9dc1cc0dd97d)
+
+
 - **Chatbot Interface**: Front-end for users to interact with the chatbot.
 - **Document Storage**: PDF documents are stored in QdrantDB as vectors.
 - **Semantic Search Engine**: Facilitates accurate and context-aware search capabilities.
