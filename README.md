@@ -1,7 +1,7 @@
 # Saleschat Chatbot Project: AI Chatbot Implementation in Low-Code Application.
 
 ## Project Overview
-This project focuses on implementing an AI-based chatbot within a low-code platform to assist users in building multiple chatbots effortlessly. The application integrates OpenAI’s GPT-3.5 Turbo and LangChain framework, providing capabilities such as semantic search, entity extraction, and vector-based data storage using QdrantDB. This project aims to revolutionize the user experience by enabling seamless chatbot creation and interaction with PDF documents stored as vectors.
+This project focuses on implementing an **AI-based chatbot** within a low-code platform to assist users in building multiple chatbots effortlessly. The application integrates OpenAI’s GPT-3.5 Turbo and LangChain framework, providing capabilities such as semantic search, entity extraction, and vector-based data storage using QdrantDB. This project aims to revolutionize the user experience by enabling seamless chatbot creation and interaction with PDF documents stored as vectors.
 
 ## Features
 - AI-Powered Chatbot: Utilizes GPT-3.5 for natural language understanding and response generation.
