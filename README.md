@@ -49,9 +49,9 @@ Pleae refer to this file for more details **AI Chatbot Implementation in Low-Cod
 ## Installation
 To install and run the project locally:
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/ai-chatbot-lowcode.git
-   ```
+```
+git clone https://github.com/yourusername/ai-chatbot-lowcode.git
+```
 2. Created a environment and activate it
 ```
 conda create -p venv python==3.11
