@@ -23,6 +23,10 @@ The architecture follows a modular approach with the following components:
 - **Document Storage**: PDF documents are stored in QdrantDB as vectors.
 - **Semantic Search Engine**: Facilitates accurate and context-aware search capabilities.
 - **Chatbot Logic**: Powered by OpenAI’s GPT-3.5, providing personalized responses.
+  
+## OpenAI Pricing calculation.
+![image](https://github.com/user-attachments/assets/c456f562-cc95-4d26-9a4c-f058f27414ee)
+
 
 ## How It Works
 - **Document Upload**: Users upload PDFs that are converted into vector embeddings and stored in QdrantDB.
