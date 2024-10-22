@@ -46,27 +46,31 @@ The initial interaction page with Emma, the chatbot.
 ![image](https://github.com/user-attachments/assets/9a37575a-2694-44af-821c-9d50748350df)
 
 Pleae refer to this file for more details **AI Chatbot Implementation in Low-Code Application Report.pdf**, it's available in the repositary.
-
-# Created a environment
+## Installation
+To install and run the project locally:
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/ai-chatbot-lowcode.git
+   ```
+2. Created a environment and activate it
 ```
 conda create -p venv python==3.11
-
 conda activate venv/
 ```
-# Install all necessary libraries
+3. Install the necessary dependencies:
 ```
 pip install -r requirements.txt
 ```
 
-# Commands to execute code
+4. Create **.env** file and place the API key information.
+5. Commands to execute code
 ```
 uvicorn main:app --host 0.0.0.0 --port 5000 --ssl-keyfile "C:/Users/rajku-sa/Documents/MEGA/Ineuron/ML_Chatbot_Project/certificates/domain.key" --ssl-certfile "C:/Users/rajku-sa/Documents/MEGA/Ineuron/ML_Chatbot_Project/certificates/domain-1689779644033.crt"
 
 uvicorn main:app --host 127.0.0.1 --port 8000
 ```
 
-# Postman API's with data:
-
+6. To check in Postman API's with data:
 ```
 https://192.168.253.122:5000/create-chatbot
 {
