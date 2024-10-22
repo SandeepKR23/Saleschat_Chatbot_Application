@@ -25,6 +25,8 @@ The architecture follows a modular approach with the following components:
 - **Chatbot Logic**: Powered by OpenAI’s GPT-3.5, providing personalized responses.
   
 ## OpenAI Pricing calculation.
+
+Please find the detailed pricing breakdown for the Phase 1 project below. This includes all relevant cost estimations associated with the OpenAI model usage.
 ![image](https://github.com/user-attachments/assets/c456f562-cc95-4d26-9a4c-f058f27414ee)
 
 
