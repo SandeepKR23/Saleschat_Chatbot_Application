@@ -31,8 +31,8 @@ The architecture follows a modular approach with the following components:
 - **Response Generation**: GPT-3.5 generates human-like responses based on user queries and retrieved information.
 
 ## Screenshots
-Chatbot interface for document uploads and user interaction.
-1. The initial interaction page with Emma, the chatbot.
+The initial interaction page with Emma, the chatbot.
+   
 ![image](https://github.com/user-attachments/assets/767fbd95-2e04-4992-b2b0-f4dcc3541595)
 ![image](https://github.com/user-attachments/assets/4e48162d-9953-41fc-b82f-f0d038f3a8d0)
 ![image](https://github.com/user-attachments/assets/7e011804-a394-4054-b7da-0ec34334194e)
