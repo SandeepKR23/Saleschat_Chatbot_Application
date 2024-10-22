@@ -38,7 +38,7 @@ The initial interaction page with Emma, the chatbot.
 ![image](https://github.com/user-attachments/assets/7e011804-a394-4054-b7da-0ec34334194e)
 ![image](https://github.com/user-attachments/assets/9a37575a-2694-44af-821c-9d50748350df)
 
-Pleae refer to this file for more details **AI Chatbot Implementation in Low-Code Application Report.pdf**
+Pleae refer to this file for more details **AI Chatbot Implementation in Low-Code Application Report.pdf**, it's available in the repositary.
 
 # Created a environment
 ```
