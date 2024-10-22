@@ -17,10 +17,7 @@ This project focuses on implementing an **AI-based chatbot** within a low-code p
 
 ## Architecture
 The architecture follows a modular approach with the following components:
-![Chatbot Interface](Downloads/Project_ARc1.png)
-
 ![Project_ARc1](https://github.com/user-attachments/assets/5b7a2f4c-1e24-4bd7-a81f-9dc1cc0dd97d)
-
 
 - **Chatbot Interface**: Front-end for users to interact with the chatbot.
 - **Document Storage**: PDF documents are stored in QdrantDB as vectors.
@@ -35,7 +32,13 @@ The architecture follows a modular approach with the following components:
 
 ## Screenshots
 Chatbot interface for document uploads and user interaction.
+1. The initial interaction page with Emma, the chatbot.
+![image](https://github.com/user-attachments/assets/767fbd95-2e04-4992-b2b0-f4dcc3541595)
+![image](https://github.com/user-attachments/assets/4e48162d-9953-41fc-b82f-f0d038f3a8d0)
+![image](https://github.com/user-attachments/assets/7e011804-a394-4054-b7da-0ec34334194e)
+![image](https://github.com/user-attachments/assets/9a37575a-2694-44af-821c-9d50748350df)
 
+Pleae refer to this file for more details **AI Chatbot Implementation in Low-Code Application Report.pdf**
 
 # Created a environment
 ```
