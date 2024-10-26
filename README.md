@@ -28,6 +28,7 @@ The architecture follows a modular approach with the following components:
 ## OpenAI Pricing calculation.
 
 Please find the detailed pricing breakdown for the Phase 1 project below. This includes all relevant cost estimations associated with the OpenAI model usage.
+So the estimated price for the 900 conversations is $ 0.4
 ![image](https://github.com/user-attachments/assets/c456f562-cc95-4d26-9a4c-f058f27414ee)
 
 
