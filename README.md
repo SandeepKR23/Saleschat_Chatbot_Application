@@ -38,8 +38,7 @@ So the estimated price for the 900 conversations is $ 0.4
 - **Information Retrieval**: Chatbot performs a semantic search on the stored documents to provide relevant answers.
 - **Response Generation**: GPT-3.5 generates human-like responses based on user queries and retrieved information.
 
-Please refer to this documnet for more details:
-https://github.com/SandeepKR23/Saleschat_Chatbot_Application/blob/main/AI%20Chatbot%20Implementation%20in%20Low-Code%20Application%20Report.pdf
+Please refer to this document for more details:AI Chatbot Implementation in Low-Code Application Report.pdf
 
 ## Screenshots
 The initial interaction page with Emma, the chatbot.
